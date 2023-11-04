@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d365a"],{"5d1f":function(t,n,r){"use strict";r.r(n);var e=function(){var t=this,n=t.$createElement,r=t._self._c||n;return r("div",[r("h1",[t._v(" ページ１の回答 ")]),r("circuit"),r("router-link",{attrs:{to:"/kairo2"}},[t._v("次のページ")])],1)},i=[],u=r("4a63"),c={components:{circuit:u["a"]},data:function(){return{profileId:this.$route.query.id}}},o=c,a=r("2877"),l=Object(a["a"])(o,e,i,!1,null,null,null);n["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-2d0d365a.e3783cf2.js.map
